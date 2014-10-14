@@ -32,8 +32,6 @@ function drawProfile(data) {
         data.html_url,
         '</h3>'
 
-
-
     ].join('')
 }
 
