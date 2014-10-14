@@ -13,3 +13,4 @@ function drawProfile(data) {
         '</h2>'
     ].join('')
 }
+
