@@ -26,6 +26,10 @@ function drawProfile(data) {
 
         '<h3> Email:',
         data.email,
+        '</h3>',
+
+        '<h3> URL:',
+        data.html_url,
         '</h3>'
 
 
